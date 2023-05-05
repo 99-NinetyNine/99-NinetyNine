@@ -1,5 +1,4 @@
 ## Hi there 👋
-- 😁 I'm #sailesh
 - 🔭 I’m currently working on Auction
 - 🌱 I’m currently learning CyberSec
 - 👯 I’m looking to collaborate on Operating s
