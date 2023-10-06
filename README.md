@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on Auction
+- 🔭 I’m currently working on Rug Design
 - 🌱 I’m currently learning CyberSec
 - 👯 I’m looking to collaborate on Operating s
 - 🤔 I’m looking for help with React JS
