@@ -6,4 +6,5 @@
 - 📫 How to reach me: 9898989898
 - 😄 Pronouns: 007
 - ⚡ Fun fact: Making portfolio is very interesting thing.
+- 🌐 Thanks .np : saileshshiwakoti.com.np
 - 📂 [View my Portfolio page](https://sailesh-beta.vercel.app/)
