@@ -6,4 +6,4 @@
 - 📫 How to reach me: 9898989898
 - 😄 Pronouns: 007
 - ⚡ Fun fact: Making portfolio is very interesting thing.
-- 📂 [Portfolio](https://sailesh-beta.vercel.app/)
+- 📂 [View my Portfolio page](https://sailesh-beta.vercel.app/)
