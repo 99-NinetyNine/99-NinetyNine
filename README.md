@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🤔 I have experience in (Django, MERN, AI/ML GAN, NLP, CV, CyberSecurity, Big Data)
+- 🤔 I have experience in (Django, MERN, AI/ML GAN, NLP, CV, CyberSecurity, Big Data(Hadoop Stack), DirectX 11, OpenGL)
 - 🔭 My latest project is "Enhancing Carpet Design using GANs"
 - 🌱 I’m currently learning Hadoop Stack, LLMs, Transformers, etc.
 - 👯 I’m looking for Jobs in Python | Django | AI/ML | NLP | CV.
