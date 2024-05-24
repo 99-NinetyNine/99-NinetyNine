@@ -1,12 +1,13 @@
-## Hi there 👋. I am Data Scientist (TO BE) that's why I gathered these triats!!!
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+Sailesh!;&center=true&size=30">
   </a>
 </h1>
+
 <h2 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Scientist+To+Be!+👋;+I'm+Sailesh!;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Scientist+To+Be...;&center=true&size=30">
   </a>
 </h2>
 
