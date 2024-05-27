@@ -11,14 +11,14 @@
   </a>
 </h2>
 
-- 🤔 I have experience in (Django, MERN, AI/ML GAN, NLP, CV, CyberSecurity, Big Data(Hadoop Stack), DirectX 11, OpenGL)
-- 🔭 My latest project is "Enhancing Carpet Design using GANs"
-- 🌱 I’m currently learning Hadoop Stack, LLMs, Transformers, etc.
-- 👯 I’m looking for Jobs in Python | Django | AI/ML | NLP | CV.
-- 📫 How to reach me: 9898989898
-- 😄 Pronouns: 007
-- ⚡ Fun fact: Making portfolio is very interesting thing.
-- 📂 [View my Portfolio page](https://saileshshiwakoti.com.np/)
+- **Professional Experience**: Proficient in Django, MERN stack, AI/ML (Generative Adversarial Networks, Natural Language Processing, Computer Vision), Cybersecurity, Big Data (Hadoop Stack), DirectX 11, and OpenGL.
+- **Current Project**: Enhancing carpet design through the application of Generative Adversarial Networks (GANs).
+- **Ongoing Learning**: Expanding knowledge in the Hadoop ecosystem, Large Language Models (LLMs), and Transformer architectures.
+- **Career Interests**: Seeking opportunities in Python, Django, Artificial Intelligence/Machine Learning, Natural Language Processing, and Computer Vision.
+- **Contact Information**: Reachable at 989-898-9898.
+- **Pronouns**: 007
+- **Interesting Fact**: Developing a portfolio is an engaging and rewarding task.
+- **Portfolio**: [View my professional portfolio](https://saileshshiwakoti.com.np/)
 
 <div align="center">
 
