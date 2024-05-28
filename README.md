@@ -7,7 +7,7 @@
 
 <h2 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=0;1;0;1;0;1;0;1;0;1;0;1;0;1;0;1;0;1;0;1;1;00000000000000;1;00000000;1111111111111;&center=true&size=20">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=0101010;10101011;0101011;00000000000000;100000000;1111111111111;&center=true&size=20">
   </a>
 </h2>
 
