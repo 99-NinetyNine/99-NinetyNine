@@ -16,7 +16,7 @@
 - **Ongoing Learning**: Expanding knowledge in the Hadoop ecosystem, Large Language Models (LLMs), and Transformer architectures.
 - **Career Interests**: Seeking opportunities in Python, Django, Artificial Intelligence/Machine Learning, Natural Language Processing, and Computer Vision.
 - **Contact Information**: Reachable at 989-898-9898.
-- **Pronouns**: 007
+- **Pronouns**: 007 | Always_Motivated | Tillionaire
 - **Interesting Fact**: Developing a portfolio is an engaging and rewarding task.
 - **Portfolio**: [View my professional portfolio](https://www.youtube.com/channel/UCBH8YX4ZXAoGTGdFoz2dpGw)
 
