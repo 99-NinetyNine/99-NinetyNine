@@ -1,14 +1,14 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+Sailesh!;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋;+I'm+Sailesh Shiwakoti!;&center=true&size=30">
   </a>
 </h1>
 
 
 <h2 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=0101010;10101011;0101011;00000000000000;100000000;11011111111111;&center=true&size=20">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer Engineer From Nepal;10101011;0101011;00000000000000;100000000;11011111111111;&center=true&size=20">
     
   </a>
 </h2>
@@ -23,11 +23,7 @@
 <div align="center">
 
   <br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/99-NinetyNine/99-NinetyNine/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/99-NinetyNine/99-NinetyNine/blob/output/github-contribution-grid-snake.svg" />
-    <img src="https://github.com/99-NinetyNine/99-NinetyNine/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
-  </picture>
+ 
   <br />
   <br />
   <br />
