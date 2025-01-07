@@ -14,8 +14,8 @@
   </a>
 </h2>
 
-- **Professional Experience**: Proficient in Django, MERN stack, AI/ML (Generative Adversarial Networks, Natural Language Processing, Computer Vision), Cybersecurity, Big Data (Hadoop Stack), DirectX 11, and OpenGL.
-- **Current Project**: Enhancing carpet design through the application of Generative Adversarial Networks (GANs).
+- **Experience**: I studied. I liked os, database and every masterpiece that had logic. 
+- **Current Project**: fine tuning, rag, sw engineering!
 - **Ongoing Learning**: Expanding knowledge in the Hadoop ecosystem, Large Language Models (LLMs), and Transformer architectures.
 - **Career Interests**: Seeking opportunities in Python, Django, Artificial Intelligence/Machine Learning, Natural Language Processing, and Computer Vision.
 - **Interesting Fact**: Developing a portfolio is an engaging and rewarding task.
