@@ -18,8 +18,9 @@
 - **Current Project**: fine tuning, rag, sw engineering!
 - **Ongoing Learning**: Expanding knowledge in the Hadoop ecosystem, Large Language Models (LLMs), and Transformer architectures.
 - **Career Interests**: I prefer innovation.
-- **Video Editing For Relaxation**: [View my  portfolio](https://www.youtube.com/channel/UCBH8YX4ZXAoGTGdFoz2dpGw)
-- **Linkedin**: [View my  portfolio](https://www.linkedin.com/in/saileshshiwakoti/)
+- **BLogs**:[Medium](https://medium.com/@ShiwakotiSailesh)
+- **VLogs**: [Youtube](https://www.youtube.com/channel/UCBH8YX4ZXAoGTGdFoz2dpGw)
+- **Profile**: [LinkedIN](https://www.linkedin.com/in/saileshshiwakoti/)
 
 <div align="center">
 
