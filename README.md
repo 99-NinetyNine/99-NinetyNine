@@ -14,9 +14,9 @@
   </a>
 </h2>
 
-- **Experience**: I studied. I liked os, database and every masterpiece that had logic. 
-- **Current Project**: fine tuning, rag, sw engineering!
-- **Ongoing Learning**: Expanding knowledge in the Hadoop ecosystem, Large Language Models (LLMs), and Transformer architectures.
+- **Experience**: I studied Bachelor's in Computer Engineering. Then worked as AI/ML Researcher in NsDevil for 1 year developing CV, LSTM, LLM powered tools.
+- **Current Project**: Agent that does "go to amazon, buy laptop" to "i want to sleep, play some music" by copying me, improves itself. And Yeah, From scratch!!! 
+- **Ongoing Learning**: RL(Reinforcement Learning is the next boom,yeah with ROBOT!)
 - **Career Interests**: I prefer innovation.
 - **BLogs**:[Medium](https://medium.com/@ShiwakotiSailesh)
 - **VLogs**: [Youtube](https://www.youtube.com/channel/UCBH8YX4ZXAoGTGdFoz2dpGw)
