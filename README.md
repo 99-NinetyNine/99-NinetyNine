@@ -14,10 +14,10 @@
   </a>
 </h2>
 
-- **Experience**: I studied Bachelor's in Computer Engineering. Then worked as AI/ML Researcher in NsDevil for 1 year developing CV, LSTM, LLM powered tools.
-- **Current Project**: Agent that does "go to amazon, buy laptop" to "i want to sleep, play some music" by copying me, improves itself. And Yeah, From scratch!!! 
-- **Ongoing Learning**: RL(Reinforcement Learning is the next boom,yeah with ROBOT!)
-- **Career Interests**: I prefer innovation.
+- **Experience**: I have studied Bachelor's in Computer Engineering. And then, I worked worked as AI/ML Researcher at NsDevil for 1 year developing CV, LSTM, LLM powered tools.
+- **Current Project**: Agent that makes mind map or knowledge graphs of AI research paper.
+- **Ongoing Learning**: RL(Reinforcement Learning)
+- **Career Interests**: I prefer innovation. I am a developer. Like to design a system that handles millions of user.
 - **BLogs**:[Medium](https://medium.com/@ShiwakotiSailesh)
 - **VLogs**: [Youtube](https://www.youtube.com/channel/UCBH8YX4ZXAoGTGdFoz2dpGw)
 - **Profile**: [LinkedIN](https://www.linkedin.com/in/saileshshiwakoti/)
