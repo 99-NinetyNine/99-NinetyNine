@@ -14,7 +14,7 @@
   </a>
 </h2>
 
-- **Experience**: I have studied Bachelor's in Computer Engineering. And then, I worked worked as AI/ML Researcher at NsDevil for 1 year developing CV, LSTM, LLM powered tools.
+- **Experience**: I have studied Bachelor's in Computer Engineering. And then, I have worked as AI/ML Researcher at NsDevil for 1 year developing CV, LSTM, LLM powered tools.
 - **Current Project**: Agent that makes mind map or knowledge graphs of AI research paper.
 - **Ongoing Learning**: RL(Reinforcement Learning)
 - **Career Interests**: I prefer innovation. I am a developer. Like to design a system that handles millions of user.
