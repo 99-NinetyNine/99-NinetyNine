@@ -108,8 +108,12 @@ h2 {
     font-size: 1.1rem;
     color: #555;
     max-width: 700px;
-    margin: 0 auto;
+    margin: 0 auto 20px auto;
     line-height: 1.8;
+}
+
+.about p:last-child {
+    margin-bottom: 0;
 }
 
 /* Experience Section */
@@ -257,6 +261,192 @@ h2 {
     color: #666;
 }
 
+/* Education Section */
+.education-item {
+    background: #fafafa;
+    padding: 30px;
+    border-radius: 12px;
+    border: 1px solid #f0f0f0;
+    text-align: center;
+}
+
+.education-header h3 {
+    font-size: 1.4rem;
+    margin-bottom: 12px;
+    color: #1a1a1a;
+}
+
+.institution {
+    font-weight: 600;
+    color: #666;
+    display: block;
+    margin-bottom: 6px;
+    font-size: 1.1rem;
+}
+
+.location {
+    color: #888;
+    font-size: 0.95rem;
+    display: block;
+    margin-bottom: 8px;
+}
+
+.grade {
+    color: #333;
+    font-weight: 600;
+    display: block;
+    font-size: 1rem;
+}
+
+/* Certifications Section */
+.certifications-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 30px;
+    margin-top: 40px;
+}
+
+.cert-category {
+    background: #fafafa;
+    padding: 25px;
+    border-radius: 12px;
+    border: 1px solid #f0f0f0;
+}
+
+.cert-category h3 {
+    font-size: 1.3rem;
+    margin-bottom: 20px;
+    color: #333;
+    text-align: center;
+}
+
+.cert-list {
+    list-style: none;
+    padding: 0;
+}
+
+.cert-list li {
+    color: #555;
+    margin-bottom: 10px;
+    padding-left: 20px;
+    position: relative;
+    line-height: 1.5;
+}
+
+.cert-list li:before {
+    content: '✓';
+    position: absolute;
+    left: 0;
+    color: #4CAF50;
+    font-weight: bold;
+}
+
+/* Trainings Section */
+.training-item {
+    background: #fafafa;
+    padding: 30px;
+    border-radius: 12px;
+    margin-bottom: 20px;
+    border: 1px solid #f0f0f0;
+}
+
+.training-header {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.training-header h3 {
+    font-size: 1.4rem;
+    margin-bottom: 8px;
+    color: #1a1a1a;
+}
+
+.training-org {
+    font-weight: 600;
+    color: #666;
+    display: block;
+    font-size: 1.1rem;
+}
+
+.training-details {
+    list-style: none;
+    padding: 0;
+}
+
+.training-details li {
+    color: #555;
+    margin-bottom: 8px;
+    padding-left: 20px;
+    position: relative;
+    line-height: 1.6;
+}
+
+.training-details li:before {
+    content: '→';
+    position: absolute;
+    left: 0;
+    color: #999;
+    font-weight: bold;
+}
+
+/* Free Courses Section */
+.courses-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 30px;
+    margin-top: 40px;
+}
+
+.course-card {
+    background: #fafafa;
+    padding: 30px;
+    border-radius: 12px;
+    transition: all 0.3s ease;
+    border: 1px solid #f0f0f0;
+    text-align: center;
+}
+
+.course-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+.course-card h3 {
+    font-size: 1.4rem;
+    margin-bottom: 15px;
+    color: #1a1a1a;
+}
+
+.course-card p {
+    color: #666;
+    margin-bottom: 20px;
+    line-height: 1.6;
+    text-align: left;
+}
+
+.course-link {
+    display: flex;
+    justify-content: center;
+}
+
+.course-link a {
+    background-color: #ff0000;
+    color: white;
+    text-decoration: none;
+    padding: 12px 24px;
+    border-radius: 25px;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.course-link a:hover {
+    background-color: #cc0000;
+    transform: translateY(-2px);
+}
+
 /* Footer */
 footer {
     text-align: center;
@@ -305,6 +495,16 @@ footer p {
     
     .projects-grid {
         grid-template-columns: 1fr;
+    }
+    
+    .certifications-grid {
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
+    
+    .courses-grid {
+        grid-template-columns: 1fr;
+        gap: 20px;
     }
 }
 
